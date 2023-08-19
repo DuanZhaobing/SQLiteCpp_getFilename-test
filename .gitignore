@@ -34,11 +34,5 @@
 #
 *.vs
 /x64
-/Release
-/AlgoDecode/x64
-/KLineDiagnosticUnit/x64
-/Test/Test/x64
 *.sln
 *.log
-*.vcxproj
-KLineDiagnosticUnit/KLineDiagnosticUnit.vcxproj
